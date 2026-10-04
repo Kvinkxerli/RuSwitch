@@ -2,11 +2,16 @@ RuSwitch
 ========
 
 Версия: 1.4.2
+
 Платформа: Nintendo Switch
 
 RuSwitch — homebrew-приложение для Nintendo Switch с каталогом русификаторов игр.
 Скачивайте и устанавливайте переводы прямо с консоли!
 
+Скриншоты
+-----------
+![Лист Игр](screenshots/list game.jpg)
+![Игра](screenshots/game.jpg)
 
 Возможности
 -----------
