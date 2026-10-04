@@ -10,7 +10,8 @@ RuSwitch — homebrew-приложение для Nintendo Switch с катал�
 
 Скриншоты
 -----------
-![Лист Игр](screenshots/list game.jpg)
+![Лист Игр](screenshots/list_game.jpg)
+
 ![Игра](screenshots/game.jpg)
 
 Возможности
